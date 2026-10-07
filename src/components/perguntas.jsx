@@ -14,8 +14,8 @@ const perguntas = [
     {
         'id': 3,
         'pergunta': 'Quem é o maior artilheiro da história das Copas do Mundo?',
-        'alternativas': ['Ronaldo Fenômeno', 'Pelé', 'Miroslav Klose', 'Just Fontaine'],
-        'correta': 'Miroslav Klose'
+        'alternativas': ['Ronaldo Fenômeno', 'Pelé', 'Miroslav Klose', 'Lionel Messi'],
+        'correta': 'Lionel Messi'
     },
     {
         'id': 4,
